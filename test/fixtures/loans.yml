@@ -1,0 +1,5 @@
+loan_one:
+  funded_amount: 1000.00
+
+loan_two:
+  funded_amount: 2000.00
